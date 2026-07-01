@@ -72,9 +72,9 @@
 				</mj-text>
 				<mj-text font-family="Roboto, sans-serif" font-size="16px" line-height="36px" padding-bottom="30px">
 					<b>Event details:</b><br />
-					📅 23 July 2026<br />
-					🕙 10:00 AM - 3:00 PM<br />
-					📍 The Oakspace, Oakroom Premier Cozmo Jakarta
+					📅&nbsp;23 July 2026<br />
+					🕙&nbsp;10:00 AM - 3:00 PM<br />
+					📍&nbsp;The Oakspace, Oakroom Premier Cozmo Jakarta
 				</mj-text>
 				<mj-text font-family="Roboto, sans-serif" font-size="16px" line-height="26px" font-weight="bold" color="#000000">
 					This invite-only event will cover:
