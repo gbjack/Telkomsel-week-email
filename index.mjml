@@ -115,7 +115,7 @@
 		<mj-section>
 			<mj-column padding="0 30px 60px 30px" css-class="fluid-padding">
 				<mj-text font-family="Roboto, sans-serif" font-size="16px" line-height="26px" color="#000000">
-					Kind regards,<br />
+					Best regards,<br />
 					<b>Vonage</b><br />
 					APAC RCS Event Team
 				</mj-text>
