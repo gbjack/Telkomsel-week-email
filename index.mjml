@@ -1,6 +1,6 @@
 <mjml lang="en" dir="ltr">
 	<mj-head>
-		<mj-title>2 weeks reminder</mj-title>
+		<mj-title>Reminder</mj-title>
 		<mj-attributes>
 		<mj-all padding="0" />
 		<mj-text font-family="Helvetica, Roboto, sans-serif" font-size="16px" color="#000000" line-height="22px" />
@@ -68,13 +68,13 @@
 					Dear [firstname,fallback=],
 				</mj-text>
 				<mj-text font-family="Roboto, sans-serif" font-size="16px" line-height="26px" color="#000000" padding-bottom="30px">
-					Just a reminder that <b>The Future of Messaging in APAC: How RCS Will Transform Brand Engagement</b> is happening in <b>two weeks</b>.	
+					Just a reminder that <b>The Future of Messaging in APAC: How RCS Will Transform Brand Engagement</b> is happening in <b>6 days</b>.	
 				</mj-text>
 				<mj-text font-family="Roboto, sans-serif" font-size="16px" line-height="36px" padding-bottom="30px">
 					<b>Event details:</b><br />
 					📅&nbsp;&nbsp;23 July 2026<br />
 					🕙&nbsp;&nbsp;10:00 AM - 3:00 PM<br />
-					📍&nbsp;&nbsp;The Oakspace, Oakroom Premier Cozmo Jakarta
+					📍&nbsp;&nbsp;The Oakspace, Oakwood Premier Cozmo Jakarta
 				</mj-text>
 				<mj-text font-family="Roboto, sans-serif" font-size="16px" line-height="26px" font-weight="bold" color="#000000">
 					This invite-only event will cover:
